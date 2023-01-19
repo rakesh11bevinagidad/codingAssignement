@@ -1,0 +1,7 @@
+Two cases are created.
+How to run:
+	1. Import the project to your local machine.
+	2. Right click on the test file.(TeamRCB.jave)->select Run As->TestNG Test
+	3. Verify results from the console.
+	4. It can be run from 'testng.xml' file as suite. Right click on testng.xml file and -> select Run As -> TestNG Suite
+	5. Verify results from the console.
